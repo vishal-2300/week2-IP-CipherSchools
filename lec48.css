@@ -1,0 +1,21 @@
+h2 ,< main heading>{
+    border-right: 4px solid red;
+    border-top: 3px dotted blue;
+    border-bottom: 2px dashed green;
+    border-left: 4px solid yellow;
+
+}
+p{
+    background-color: blue;
+}
+h2 ,img{
+    border: 8px solid red;
+}
+    
+
+div{
+    border: 3px dotted green;
+}
+li{
+    border: solid black;
+}

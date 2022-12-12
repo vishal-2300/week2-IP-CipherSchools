@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-red{
+    color: red;
+}
+.text-green{
+    color: green;
+}
+/* one utility class one work */
+.bluecolor{
+    background-color: darkblue;
+}
+.browncolor{
+    background-color: goldenrod
+}

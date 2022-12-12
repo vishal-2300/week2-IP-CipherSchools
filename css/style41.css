@@ -1,0 +1,12 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.firstpara{
+    background-color: blue;
+}
+.oneword{
+    background-color: greenyellow;
+}
+.secondword{
+    background-color: aqua;
+}

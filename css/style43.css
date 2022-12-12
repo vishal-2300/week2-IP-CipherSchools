@@ -1,0 +1,15 @@
+/* *{
+    color: blue;
+} */
+header{
+    background-color: #f0ebeb;
+}
+section.my-artices{
+    background-color: darkgoldenrod;
+}
+header p{
+    color: red;
+}
+li a{
+    color: blue;
+}

@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#main-heading{
+    background-color: blueviolet;
+}
+.main-section{
+    background-color: brown;
+}
+p{
+    color: aliceblue;
+}

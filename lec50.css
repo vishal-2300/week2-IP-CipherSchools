@@ -1,0 +1,21 @@
+
+body{
+    font-family: 'popbins' , sans-serif;
+}
+.container{
+    width: 1400px;
+    border: 3px solid red;
+    margin: 0 auto;
+}
+h1{
+    background: blue;
+    text-align: center;
+    padding: 20px 0px;
+}
+section.about-me, section.about-Cm2 {
+    border: 3px solid green;
+    padding: 10px;
+}
+.about-me{
+    margin-bottom: 40px; 
+}
